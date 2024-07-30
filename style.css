@@ -5,10 +5,10 @@
 }
 
 body{
-    display: flex; /*esnek kutu haline gelir*/
-    justify-content: center; /*yatay olarak ortakanır*/
-    align-items: center;/*dikey olarak ortalanır*/
-    min-height: 100vh;/*minimum yükseklik ekranını tamamı olur*/
+    display: flex; 
+    justify-content: center; 
+    align-items: center;
+    min-height: 100vh;
     background: url(resimler/morarka_plan.jpg);
     background-size: cover;
     background-position: center;
